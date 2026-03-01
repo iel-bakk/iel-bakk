@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://badge.mediaplus.ma/binary/ylamraou" alt="iel-bakk 42" width="500">
+<img src="https://badge.mediaplus.ma/binary/iel-bakk" alt="iel-bakk 42" width="500">
 
 I'm a student at the **42 Network** — a peer-to-peer, project-based programming school.  
 I love building things, and I enjoy creating **open-source tools** that are actually useful to people.
